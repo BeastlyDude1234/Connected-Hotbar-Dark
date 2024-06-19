@@ -1,6 +1,19 @@
-# Connected Hotbar
-Removes the dividers between slots in the hotbar making it one big seamless box. This is the dark edition of this resourcepack (https://modrinth.com/resourcepack/connected-hotbar)
+<h2 align="center">Connected Hotbar (Dark)</h2>
 
-## Compatibility
+<p align="center"><a href="https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack">Installation</a> • <a href="https://github.com/BeastlyDude1234/Connected-Hotbar-Dark/issues">Issues</a> • <a href="https://github.com/BeastlyDude1234">More</a></p>
 
-This resource pack will work with 1.20 and should work with _most_ versions prior to 1.20. Just ignore the incompatibility warning in the resource pack selection menu.
+Removes the dividers between slots in the hotbar making it one big seamless box. _If you want the normal edition go [here](https://github.com/BeastlyDude1234/Connected-Hotbar)._
+
+<details>
+<summary>Compatibility</summary>
+<br>
+Currently:
+
+- Version 1.20.1 _should_ be compatible with most versions **before**.
+- Version 1.20.2 _should_ be compatible with most versions **after**.
+
+Just ignore the incompatibility warning in the resource pack selection menu.
+
+_If there are any issues please submit it on the issues page._
+</details>
+
